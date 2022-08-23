@@ -1,0 +1,94 @@
+O que é o método ágil;
+Como ele surgiu;
+Projetos: método ágil X método clássico
+O manifesto ágil
+Como iniciar a implementação
+
+Modelo tradicional de gestão de projetos
+
+Levantamentos de requisitos > Planejamento > Desenvolvimento > Testes > Homologação > Entrega
+  
+  * Esse é um modelo preditivo e fixo;
+  * Não é aplicavél para desenvolvimento de sistemas pois requisitos e problemas podem sempre aparecer;
+  
+
+Processo Empírico
+  O empirismo afirma que o conhecimento vem da experiência e da tomada de decisões baseadas no que é conhecido.
+  Ele se apoia em experiências vividas, na observação de coisas e não em teorias e métodos científicos.
+  
+       Longe do acordo|                                     |
+                      |                                     |     Anarquia
+                      |                                     |______________
+                      |
+                      |____________________     Complexo ----------------------> Processos empíricos
+     Requisitos       |                    |
+                      |     Complicado     |
+                      |                    |
+                      |______________      |
+                      |   Simples   |      |
+                      |             |      |
+      perto do acordo |_____________|______|________________________________
+                      Perto da certeza                                  Longe da certeza
+                                              Técnologia
+
+Scrum emprega uma abordagem iterativa e incremental para aperfeiçoar a previsibilidade e o controle de riscos
+  * Simples: é quando se tem certeza das técnologias e requisitos tornando o processo preditivo e fácil de compretar.
+  * Complexo: Temos visibilade de alguns requisitos e técnologias porém esta sujeito a a mudanças é onde os processos empiricos são usados
+    - Os processos empiricos são a base do scrum. (tentatvia e erro)
+    
+O que é Ágil?
+  Ágil não tem a ver com rapidez ou velocidade. A diferença fundamental entre os dois etá na previsibilidade do "destino final".
+  Ser ágil significa estar pronto e ser capaz de mudar facilmente de direção.
+  Já quando sabemos exatamente onde queremos chegar é importante imprimirmos velocidade.
+  
+O manifesto ágil
+  O Manifesto Ágil é uma declaração de valores e princípios essenciais para o desenvolvimento de software.
+  Foi criado em fevereiro de 2001, quando 17 profissionais, que já trabalhavam com métodos ágeis (XP, DSDM, Scrum etc.),
+  decidiram que havia chegado a hora de mudar o cenário atual de desenvolvimento de software e de propor algo novo, alinhado às necessidades das organizações.
+     
+                        Valores do SCRUM
+              Maior Relevância  |  Menor relevância         
+                                |
+          Adaptação a mudanças  |  Seguir um plano
+       Indivíduos e interações  |  Processos e ferramentas
+       Colaboração com cliente  |  Negociação de contratos
+           Produto funcionando  |  Documentação abrangente
+
+Métodos Ágeis
+  A gestão ágil de projetos de software está definida na literatura como uma família de métodos sob um “guarda-chuva”
+  
+  Gerenciamento
+    * Scrum
+    * Lean
+    * Crystal
+    * Kanban
+    
+  Engenharia
+    * Dynamic Systems Development Method (DSDM)
+    * Extreme Programming (XP)
+    * Extreme Programming (TDD)
+    
+ Entrega interativa e incremental
+  Em entregas iterativas e incrementais, o produto pronto chamado de incremento, é entregue após um ciclo de atividade em um período curto de tempo.
+  Neste ciclo de atividades, que tem duração de, no máximo, um mês, todas as etapas do projeto são executadas: levantamento dos requisitos,
+  planejamento, desenvolvimento, testes e entrega.
+
+  Iterativo significa: repetido, reiterado, feito mais de uma vez.
+  Incremental significa: aprimorar gradualmente, em etapas.
+  
+  Um dos pontos importantes deste método de trabalho é que se planeja somente o necessário, para poucas semanas, desenvolve-se o que é solicitado, recebe-se o         feedback e, então, reinicia-se o ciclo. (Esses ciclos são chamdos de sprints)
+  
+    * Tenha um plano de projeto de alto nível;
+    * Crie planos de iterações detalhados com base no JIT (Just In Time);
+    * Envolva todos da equipe no planejamento;
+    * Foque nas pessoas;
+    * Produto mínimo viável;
+  
+Satisfação do cliente
+  Entregas ágeis possibilitam:
+    * Aumento do valor agregado no produto: entrega de valor ao cliente, continuamente,
+      incrementalmente e com qualidade.
+    * Diminuição do leadtime: tempos de entrega reduzidos e melhoria no time to market.
+    * Cliente feliz: Agilidade na entrega, feedback constante e qualidade na entrega.
+    
+    
